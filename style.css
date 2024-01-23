@@ -18,7 +18,7 @@ body{
 #header{
   width: 100%;
   height: 100vh;
-  background-image: url(images/PlaceholderHeadshot.png);
+  background-image: url(images/pro_PFP.png);
   background-size: cover;
   background-position: center;
 }
@@ -85,7 +85,7 @@ nav ul li a:hover::after{
 /* ----about---- */
 #about{
   padding: 80px 0;
-  color: pink;
+  color: white;
 }
 
 .row{
@@ -126,7 +126,7 @@ nav ul li a:hover::after{
   content: '';
   width: 0;
   height: 3px;
-  background: orange;
+  background: purple;
   position: absolute;
   left: 0;
   bottom: -8px;
@@ -142,7 +142,7 @@ nav ul li a:hover::after{
   margin: 10px 0;
 }
 .tab-contents ul li span{
-  color: orangered;
+  color: rgb(228, 105, 228);
   font-size: 14px;
 }
 .tab-contents{
@@ -265,7 +265,7 @@ nav ul li a:hover::after{
   padding: 14px 50px;
   border-radius: 6px;
   text-decoration: none;
-  color: white;
+  color: white; 
 }
 .btn:hover {
   background: purple;
@@ -335,7 +335,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
   #header{
-    background-image: url(images/PlaceholderHeadshot.png);
+    background-image: url(images/pro_PFP.png);
   }
   .header-text{
     margin-top: 100%;
