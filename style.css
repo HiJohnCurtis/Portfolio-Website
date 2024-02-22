@@ -335,7 +335,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
   #header{
-    background-image: url(images/pro_PFP.png);
+    background-image: url(Images/pro_PFP.png);
   }
   .header-text{
     margin-top: 100%;
